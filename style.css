@@ -3,5 +3,5 @@ header h2 {
 }
 
 header nav div form {
-  align-self: flex-end;
+  flex-wrap: wrap-reverse;
 }
