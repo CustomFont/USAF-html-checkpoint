@@ -1,0 +1,7 @@
+header h2 {
+  margin-left: 2vw;
+}
+
+header form {
+  align-self: flex-end;
+}
