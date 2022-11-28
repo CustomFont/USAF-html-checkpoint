@@ -2,6 +2,6 @@ header h2 {
   margin-left: 2vw;
 }
 
-header form {
+header nav div form {
   align-self: flex-end;
 }
